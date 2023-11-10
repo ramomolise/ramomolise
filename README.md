@@ -17,7 +17,9 @@ I am a dedicated tech enthusiast with a profound passion for Linux and an unwave
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-# 📊 GitHub Stats:
+--
+
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=ramomolise&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramomolise&theme=dark&hide_border=false)<br/>
