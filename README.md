@@ -1,8 +1,12 @@
-# 🐧 Ramo Molise
-**`Linux Alchemist and Code Crafting Maestro`**
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), Ramo Molise here...
+**`I am a Linux System Administrator`**
 
-I am a dedicated tech enthusiast with a profound passion for Linux and an unwavering commitment to the world of networking. As a current student pursuing studies in Computer Sciences at UNISA, my primary objective is to cultivate the skills necessary to excel as a Linux System Administrator and Developer. I place great importance on the merits of open-source software, driven by its power and flexibility. Keeping abreast of the latest industry trends and technologies is of paramount importance to me, and I am actively working towards the attainment of the CompTIA Network+ certification to further enhance my career in the field.
-
+* 🇿🇦 I'm based in Johannesburg
+* 🖥 See my portfolio at https://ramomolise.co.za
+* 📧 You can contact me at admin@ramomolise.co.za
+* 🚀 I'm currently working on [Eternal Sync](https://github.com/ramomolise/eternalsync)
+* 🧠 I'm leaning Comptia N+, RHCSA, BSc Computing (Part-time)
+* 🌐 Home Lab Setup: RHEL 9.2, Proxmox VE 8 & Oracle Cloud Infrastructure 
 ---
 
 ## 🧰 Skills & Technologies
@@ -18,6 +22,16 @@ I am a dedicated tech enthusiast with a profound passion for Linux and an unwave
 
 ---
 
-## 📊 Stats:
+## 📲 Socials
 
-[![Ramo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramomolise)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://www.facebook.com/ramomolise" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ramomolise" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ramomolise" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@ramomolise" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+
+---
+
+## Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ramomolise"><img src="https://github-readme-stats.vercel.app/api?username=ramomolise&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&show_icons=true" alt="ramomolise's GitHub stats" /></a>
+
+<a href="https://github.com/ramomolise" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramomolise&langs_count=10&title_color=6366f1&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
