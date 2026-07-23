@@ -1,19 +1,14 @@
-# Ramo Molise
+# Hi, I'm Ramo 👋
 
-Linux-focused tech tinkerer.  
-Interested in systems, containers, and clean code.
+Founder and infrastructure engineer building AI-powered business systems.
 
-Johannesburg, South Africa
+**Focus:** AI Agents • Linux • Cloud Infrastructure • Automation
 
----
+Currently building:
+- Forge — AI customer assistant
+- Business automation platforms
+- Self-hosted Linux infrastructure
 
-## Stack
+Tech: Python • Bash • Docker • Git • Oracle Cloud • HestiaCP
 
-Arch · Debian · Ubuntu · Windows  
-Python · Bash · C++  
-Docker · LXC · Proxmox VE  
-Oracle Cloud · Git
-
----
-
-Build. Break. Learn.
+📍 Johannesburg, South Africa
