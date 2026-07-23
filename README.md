@@ -1,14 +1,27 @@
 # Hi, I'm Ramo 👋
 
-Founder and infrastructure engineer building AI-powered business systems.
+**AI & Infrastructure Engineer** passionate about Linux, automation, and cloud technologies.
 
-**Focus:** AI Agents • Linux • Cloud Infrastructure • Automation
+I'm building practical business systems with Linux, Python, Bash, Docker, Proxmox VE, LXC containers, Oracle Cloud Infrastructure, and Git while growing my skills in DevOps and cloud engineering.
 
-Currently building:
-- Forge — AI customer assistant
-- Business automation platforms
-- Self-hosted Linux infrastructure
+## Tech Stack
 
-Tech: Python • Bash • Docker • Git • Oracle Cloud • HestiaCP
+- Linux (Arch, Debian, Ubuntu)
+- Python
+- Bash
+- Git & GitHub
+- Docker
+- Proxmox VE
+- LXC Containers
+- Oracle Cloud Infrastructure (OCI)
+
+## Currently Building
+
+- AI-powered business automation
+- Linux infrastructure and self-hosted services
+- Cloud deployments and automation
+- Open-source projects and homelab experiments
+
+---
 
 📍 Johannesburg, South Africa
