@@ -18,9 +18,16 @@ I'm building practical business systems with Linux, Python, Bash, Docker, Proxmo
 ## Currently Building
 
 - AI-powered business automation
+- Privacy-focused local AI workflows
 - Linux infrastructure and self-hosted services
 - Cloud deployments and automation
 - Open-source projects and homelab experiments
+
+## Featured Project
+
+### [OpenWebUI Document Redactor](https://github.com/ramomolise/openwebui-document-redactor)
+
+A layout-preserving PDF and DOCX redaction Function for OpenWebUI. It combines deterministic rules with optional private Ollama detection while preserving document structure, wording, and configurable candidate references.
 
 ---
 
