@@ -27,7 +27,7 @@ I'm building practical business systems with Linux, Python, Bash, Docker, Proxmo
 
 ### [OpenWebUI Document Redactor](https://github.com/ramomolise/openwebui-document-redactor)
 
-A layout-preserving PDF and DOCX redaction Function for OpenWebUI. It combines deterministic rules with optional private Ollama detection while preserving document structure, wording, and configurable candidate references.
+A practical way to remove personal data from PDF and DOCX files before using powerful cloud AI models. The OpenWebUI Function preserves document structure and wording, helping users benefit from major AI platforms without exposing identifiable information.
 
 ---
 
